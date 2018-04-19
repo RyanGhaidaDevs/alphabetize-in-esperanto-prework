@@ -12,5 +12,5 @@ Esperanto = 'abcĉdefgĝhĥijĵklmnoprsŝtuŭvz'
     }
     index += 1
   end
-  sorted_arr
+  final_arr
 end
