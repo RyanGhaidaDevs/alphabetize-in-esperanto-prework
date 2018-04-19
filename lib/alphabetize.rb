@@ -1,9 +1,9 @@
 ESPERANTO = 'abcĉdefgĝhĥijĵklmnoprsŝtuŭvz'
 
  def alphabetize(arr)
-   
+
   index = 0
-  
+
   final_arr = arr
   
   until final_arr != arr
@@ -13,4 +13,4 @@ ESPERANTO = 'abcĉdefgĝhĥijĵklmnoprsŝtuŭvz'
     index += 1
   end
   sorted_arr
-+end
+end
